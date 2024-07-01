@@ -25,3 +25,6 @@ In the Go code, each assembly routine is declared as an external function. This 
 ### Main Program
 
 The main Go program demonstrates the usage of the assembly routines by calling each function with example inputs and printing the results. This illustrates how the Go program interacts with the assembly code to perform arithmetic operations.
+
+
+### You cant run this directly with ```go run maths.go``` or build it ```go build maths.go```, so do this : ```go mod init Maths``` / ```go build .```
