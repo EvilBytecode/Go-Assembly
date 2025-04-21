@@ -28,3 +28,7 @@ The main Go program demonstrates the usage of the assembly routines by calling e
 
 
 ### You cant run this directly with ```go run maths.go``` or build it ```go build maths.go```, so do this : ```go mod init Maths``` / ```go build .```
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
